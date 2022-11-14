@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Reynier1987.github.io/react-router-api-boostrap/static/css/main.f6f730a9.css",
-    "main.js": "/Reynier1987.github.io/react-router-api-boostrap/static/js/main.8ffdb09a.js",
-    "index.html": "/Reynier1987.github.io/react-router-api-boostrap/index.html",
-    "main.f6f730a9.css.map": "/Reynier1987.github.io/react-router-api-boostrap/static/css/main.f6f730a9.css.map",
-    "main.8ffdb09a.js.map": "/Reynier1987.github.io/react-router-api-boostrap/static/js/main.8ffdb09a.js.map"
+    "main.css": "/react-router-api-boostrap/static/css/main.f6f730a9.css",
+    "main.js": "/react-router-api-boostrap/static/js/main.8ffdb09a.js",
+    "index.html": "/react-router-api-boostrap/index.html",
+    "main.f6f730a9.css.map": "/react-router-api-boostrap/static/css/main.f6f730a9.css.map",
+    "main.8ffdb09a.js.map": "/react-router-api-boostrap/static/js/main.8ffdb09a.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f730a9.css",
