@@ -2,7 +2,7 @@
   "name": "example-react-router-api",
   "version": "0.1.0",
   "private": true,
-  "homepage":"Reynier1987.github.io/react-router-api-boostrap",
+  "homepage":"http://Reynier1987.github.io/react-router-api-boostrap",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
